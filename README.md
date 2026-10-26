@@ -1,4 +1,4 @@
-#  Adventure Works — Power BI Business Intelligence Dashboard
+#  B2B — Power BI Business Intelligence Dashboard
 
 > **A 4-page interactive Power BI dashboard tracking revenue, profit, orders, and returns for Adventure Works Bike Shop across 2020–2022 — with executive KPIs, customer segmentation, product drill-through, and geographic performance analysis.**
 
